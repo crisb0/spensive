@@ -1,11 +1,14 @@
+.App {
+
+}
 .App-logo {
   animation: App-logo-pulse 3 1s linear;
   height: 80px;
   margin-right:20px;
 }
 
-.Navbar {
-  padding: 20px;
+.PageMargins {
+  padding: 0px 300px;
 }
   .Navbar-logo {
     text-transform: uppercase;
